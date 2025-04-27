@@ -5,3 +5,5 @@ pandas
 numpy
 tensorflow
 xgboost
+tensorflow
+Pillow
